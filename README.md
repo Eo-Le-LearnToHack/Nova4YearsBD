@@ -18,10 +18,17 @@
   
   - hjemmebagte fødseldagsboller, spises med smør og pålægschocolade
   - nuggets, pomme frites med kethup og mayo
-  - saftevand med isterninger + sugerør
+  - caprisonne juice
+  - cupcakes
+</details>  
+
+<details>
+  <summary>Service</summary>
+  
   - 16 plastic krus
   - 16 paptallerkner
 </details>  
+
 
 <details>
   <summary>Indkøbsliste</summary>
@@ -67,10 +74,10 @@
   - Grillspyd nem nuong (Danny)
   - Grillspyd heo nuong (Danny)
   - Grillspyd grøntsager (Danny)
-  - engangsspisepinde
-  - engagnsskeer
-  - paptallerkner
-  - 
+  - Bun tuoi
+  - Che thai (1 dåse frugt af hver, husk tapioca mel)
+  - Lagkage
+  - Cup cake
 </details>  
 
 <details>
@@ -84,11 +91,19 @@
 </details>
 
 <details>
+  <summary>Service</summary>
+  
+  - engangsspisepinde
+  - engangsskeer
+  - paptallerkner
+</details>  
+
+<details>
   <summary>Indkøbsliste</summary>
   
   -  sølvbakker
   -  plastic krus
-  -  parasol
+  -  parasol fra Jydsk
   -  kul
-  -  havemæbler fra Bé
+  -  havemøbler fra Bé
 </details>  

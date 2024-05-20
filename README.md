@@ -54,8 +54,9 @@
 <details>
   <summary>Slikskål</summary>
   
-  - Nogle popcorn
-  - Nogle chips
+  - popcorn
+  - chips
+  - slik
 </details>  
 
 <details>

@@ -4,8 +4,11 @@
 <details>
   <summary>Goodie bag</summary>
   
-  - Rosiner
-  - Popcorn
-  - Slikkepind
-  
+  - 1 pk rosin
+  - 1 slikkepind
+  - 1 kiks (mini cream kiks fra Bilka)
+  - Nogle popcorn
+  - Nogle chips
+  - 1 pk Maoam
+  - Pop-it ring
 </details>  

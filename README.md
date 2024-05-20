@@ -75,6 +75,8 @@
   - Grillspyd heo nuong (Danny)
   - Grillspyd grøntsager (Danny)
   - Bun tuoi
+  - Blandede salat g krydderurter
+  - Nuoc mam
   - Che thai (1 dåse frugt af hver, husk tapioca mel)
   - Lagkage
   - Cup cake

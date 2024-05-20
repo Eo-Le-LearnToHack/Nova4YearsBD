@@ -56,7 +56,7 @@
   
   - popcorn
   - chips
-  - slik
+  - blandet slik
 </details>  
 
 <details>

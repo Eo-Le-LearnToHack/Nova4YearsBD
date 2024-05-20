@@ -2,7 +2,7 @@
 
 ## Børnehave (Antilopperne) - Torsdag 23.05.2024  
 <details>
-  <summary>Goodie bag</summary>
+  <summary>Goodie bag, 16 poser</summary>
   
   - 1 pk rosin
   - 1 slikkepind
@@ -41,7 +41,8 @@
 ````
 <details>
   <summary>Goodie bag</summary>
-  
+
+  - Nova, Emmalie, Nathalie, Tobias, Mason, Mia, Jacky, Felix = 8 poser
   - 1 pk rosin
   - 1 slikkepind
   - 1 kiks (mini cream kiks fra Bilka)

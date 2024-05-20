@@ -30,6 +30,15 @@
 </details>  
 
 ## Familiefest - Lørdag 25.05.2024  
+````
+1. GD Minh: 5
+2. GD Be: 4
+3. GD Tai: 4
+4. GD Ty: 4
+5. GD Tu: 5
+6. GD Chi: 6
+7 Total = 28 personer
+````
 <details>
   <summary>Goodie bag</summary>
   
@@ -69,7 +78,7 @@
   - Pomme frites
   - Ketchup
   - Mayo
-  - 
+  - Juice Caprisonne
 </details>
 
 <details>
@@ -79,5 +88,5 @@
   -  plastic krus
   -  parasol
   -  kul
-  -  
+  -  havemæbler fra Bé
 </details>  

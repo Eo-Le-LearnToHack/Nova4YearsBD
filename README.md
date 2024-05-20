@@ -8,4 +8,4 @@
   - Popcorn
   - Slikkepind
   
-<details>  
+</details>  
